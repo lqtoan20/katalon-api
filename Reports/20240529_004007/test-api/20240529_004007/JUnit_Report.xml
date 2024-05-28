@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="test-api" time="7.303" tests="5" failures="0" errors="0">
+   <testsuite name="test-api" tests="5" failures="0" errors="0" time="7.303" skipped="0" timestamp="29-05-2024T00:40:11" hostname="ToanLa - DESKTOP-QSIPVT9.mshome.net" id="Test Suites/test-api">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ToanLa\\git\\katalon-api\\Reports\\20240529_004007\\test-api\\20240529_004007"/>
+         <property name="logFiles" value="C:\\Users\\ToanLa\\git\\katalon-api\\Reports\\20240529_004007\\test-api\\20240529_004007\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ToanLa - DESKTOP-QSIPVT9.mshome.net"/>
+         <property name="hostAddress" value="192.168.0.1"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Create New User" time="3.155" classname="Test Cases/Create New User" status="PASSED">
+         <system-out><![CDATA[29-05-2024T00:40:11 - [TEST_CASE][PASSED] - Test Cases/Create New User: Test Cases/Create New User
+
+29-05-2024T00:40:12 - [TEST_STEP][PASSED] - sendRequest(findTestObject("Create New User")): Send request successfully
+
+29-05-2024T00:40:14 - [MESSAGE][INFO] - HAR: C:\Users\ToanLa\git\katalon-api\Reports\20240529_004007\test-api\20240529_004007\requests\main\0.har
+
+29-05-2024T00:40:14 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Create_New_Employee" time="0.924" classname="Test Cases/Create_New_Employee" status="PASSED">
+         <system-out><![CDATA[29-05-2024T00:40:14 - [TEST_CASE][PASSED] - Test Cases/Create_New_Employee: Test Cases/Create_New_Employee
+
+29-05-2024T00:40:14 - [TEST_STEP][PASSED] - sendRequest(findTestObject("create_new_employee")): Send request successfully
+
+29-05-2024T00:40:15 - [MESSAGE][INFO] - HAR: C:\Users\ToanLa\git\katalon-api\Reports\20240529_004007\test-api\20240529_004007\requests\main\1.har
+
+29-05-2024T00:40:15 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Get_Employee_By_Id" time="0.878" classname="Test Cases/Get_Employee_By_Id" status="PASSED">
+         <system-out><![CDATA[29-05-2024T00:40:15 - [TEST_CASE][PASSED] - Test Cases/Get_Employee_By_Id: Test Cases/Get_Employee_By_Id
+
+29-05-2024T00:40:15 - [TEST_STEP][PASSED] - sendRequest(findTestObject("get_employee_by_id")): Send request successfully
+
+29-05-2024T00:40:16 - [MESSAGE][INFO] - HAR: C:\Users\ToanLa\git\katalon-api\Reports\20240529_004007\test-api\20240529_004007\requests\main\2.har
+
+29-05-2024T00:40:16 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Get_Employee_List" time="0.993" classname="Test Cases/Get_Employee_List" status="PASSED">
+         <system-out><![CDATA[29-05-2024T00:40:16 - [TEST_CASE][PASSED] - Test Cases/Get_Employee_List: Test Cases/Get_Employee_List
+
+29-05-2024T00:40:16 - [TEST_STEP][PASSED] - sendRequest(findTestObject("get_employees_list")): Send request successfully
+
+29-05-2024T00:40:17 - [MESSAGE][INFO] - HAR: C:\Users\ToanLa\git\katalon-api\Reports\20240529_004007\test-api\20240529_004007\requests\main\3.har
+
+29-05-2024T00:40:17 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Get_User_By_Id" time="1.145" classname="Test Cases/Get_User_By_Id" status="PASSED">
+         <system-out><![CDATA[29-05-2024T00:40:17 - [TEST_CASE][PASSED] - Test Cases/Get_User_By_Id: Test Cases/Get_User_By_Id
+
+29-05-2024T00:40:17 - [TEST_STEP][PASSED] - sendRequest(findTestObject("Get User Id")): Send request successfully
+
+29-05-2024T00:40:18 - [MESSAGE][INFO] - HAR: C:\Users\ToanLa\git\katalon-api\Reports\20240529_004007\test-api\20240529_004007\requests\main\4.har
+
+29-05-2024T00:40:18 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[29-05-2024T00:40:11 - [TEST_SUITE][PASSED] - test-api: Test Cases/Get_User_By_Id]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

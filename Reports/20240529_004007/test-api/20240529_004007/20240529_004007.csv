@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+test-api,,,,29-05-2024 00:40:11,29-05-2024 00:40:18,7.303s,PASSED
+,,,,,,,
+Test Cases/Create New User,,,,29-05-2024 00:40:11,29-05-2024 00:40:14,3.155s,PASSED
+"sendRequest(findTestObject(""Create New User""))",,,,29-05-2024 00:40:12,29-05-2024 00:40:14,2.859s,PASSED
+,,,,,,,
+Test Cases/Create_New_Employee,,,,29-05-2024 00:40:14,29-05-2024 00:40:15,0.924s,PASSED
+"sendRequest(findTestObject(""create_new_employee""))",,,,29-05-2024 00:40:14,29-05-2024 00:40:15,0.870s,PASSED
+,,,,,,,
+Test Cases/Get_Employee_By_Id,,,,29-05-2024 00:40:15,29-05-2024 00:40:16,0.878s,PASSED
+"sendRequest(findTestObject(""get_employee_by_id""))",,,,29-05-2024 00:40:15,29-05-2024 00:40:16,0.830s,PASSED
+,,,,,,,
+Test Cases/Get_Employee_List,,,,29-05-2024 00:40:16,29-05-2024 00:40:17,0.993s,PASSED
+"sendRequest(findTestObject(""get_employees_list""))",,,,29-05-2024 00:40:16,29-05-2024 00:40:17,0.936s,PASSED
+,,,,,,,
+Test Cases/Get_User_By_Id,,,,29-05-2024 00:40:17,29-05-2024 00:40:18,1.145s,PASSED
+"sendRequest(findTestObject(""Get User Id""))",,,,29-05-2024 00:40:17,29-05-2024 00:40:18,1.099s,PASSED
